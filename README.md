@@ -3,7 +3,8 @@
 #### use Termux or Terminal  
 
  ``` 
- git clone https://github.com/elphador/wcoin.git
+ git clone https://github.com/Niel-tech-cmd/wc
+oin.git
 ```
  ``` 
  cd wcoin
@@ -16,4 +17,4 @@
 ```
 
 ##### Drop star if you liked it
-#### our telegram Channel @scripthub00
+#### our telegram Channel 
